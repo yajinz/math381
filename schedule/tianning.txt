@@ -1,0 +1,7 @@
+tianning:
+Mon:1:30pm-4:00pm, (Dishroom)
+Mon:4:00pm-6:30pm, (Dishroom)
+Mon:6:30pm-8:00pm, (Dishroom)
+Tue:1:30pm-4:00pm, (Dishroom)
+Thu:1:30pm-4:00pm, (Dishroom)
+Fri:4:00pm-6:30pm, (Dishroom)

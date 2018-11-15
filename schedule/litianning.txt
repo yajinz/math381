@@ -1,0 +1,6 @@
+litianning:
+Tue:6:30pm-8:00pm, (Dishroom)
+Wed:1:30pm-4:00pm, (Dishroom)
+Wed:4:00pm-6:30pm, (Dishroom)
+Mon:5:30pm-8:30pm, (Global)
+Tue:5:00pm-8:30pm, (Global)
